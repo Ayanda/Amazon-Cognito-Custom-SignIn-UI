@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CognitoSignInView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_in">Sign-in</string>
+    <string name="sign_in_succeeded_message_format">"Sign-in with %s succeeded."</string>
+    <string name="sign_in_canceled_message_format">"Sign-in with %s canceled."</string>
+    <string name="sign_in_or">or sign in with</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="sign_in_username">Username</string>
+
+    <string name="sign_in_message">"You successfully signed-in as %s."</string>
+</resources>

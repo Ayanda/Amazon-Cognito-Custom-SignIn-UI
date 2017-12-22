@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignInView">
+        <attr name="signInBackgroundColor" format="integer">
+            @android:color/white
+        </attr>
+        <attr name="signInImageResId" format="integer">
+            @drawable/default_sign_in_logo
+        </attr>
+    </declare-styleable>
+</resources>
